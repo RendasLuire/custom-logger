@@ -1,3 +1,0 @@
-import winston from "winston";
-export declare function createLogger(serviceName: string): winston.Logger;
-//# sourceMappingURL=index.d.ts.map
