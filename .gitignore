@@ -1,9 +1,6 @@
 # dependencias
 /node_modules
 
-# compilados de TypeScript
-/dist
-
 # logs
 logs/
 *.log
